@@ -8,7 +8,17 @@
 
   ### Table details
   + Users
+    + first_name
+    + middle_name
+    + last_name
+    + role
   + FlowerName
+    + flower_name
+    + flower_quantity
   + FarmerName
+    + first_name
+    + middle_name
+    + last_name
+    + village
   + FarmerFlowerLabelEntry
  
