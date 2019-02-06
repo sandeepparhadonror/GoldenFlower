@@ -15,11 +15,12 @@
   + FlowerDetails
     + flower_name
     + flower_quantity
-  + FarmerName
+  + FarmerDetails
     + first_name
     + middle_name
     + last_name
     + village
+    + farmer_mobil_number
   + FarmerFlowerLabelEntry 
     + FarmerName
     + FlowerName
