@@ -12,7 +12,7 @@
     + middle_name
     + last_name
     + role
-  + FlowerName
+  + FlowerDetails
     + flower_name
     + flower_quantity
   + FarmerName
@@ -20,5 +20,13 @@
     + middle_name
     + last_name
     + village
-  + FarmerFlowerLabelEntry
- 
+  + FarmerFlowerLabelEntry 
+    + FarmerName
+    + FlowerName
+    + FlowerQuntity
+    + Date
+    + DagCount
+    + FarmerFinalAmount
+  +  FarmerFlowerLabelEntryBillPati
+    + FarmerFlowerLabelEntry -> details
+    
